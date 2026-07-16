@@ -39,5 +39,3 @@ Focused on fundamental problems in robotics — modeling, dynamics, contact, and
 [Full publication list on ORCID](https://orcid.org/0000-0003-4022-7501)
 <!-- HIGHLIGHTS:END -->
 
----
-<sub>Metrics and publications above are refreshed automatically by <a href=".github/workflows/update-readme.yml">a weekly GitHub Action</a> from the public <a href="https://pub.orcid.org">ORCID API</a> (and Scopus/Google Scholar once the corresponding API key secret is configured — see <a href="scripts/update_readme.py">scripts/update_readme.py</a>).</sub>
