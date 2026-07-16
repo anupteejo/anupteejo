@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="assets/Anup_Photo_Headshot.jpg" width="150" alt="Anup Teejo Mathew" />
-
 # Anup Teejo Mathew
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1800&color=546E7A&center=true&vCenter=true&width=600&lines=Robot+dynamics+%C3%97+differentiable+physics;Geometric+Variable+Strain+(GVS)+framework;Creator+of+SoRoSim+%2F+SoRoSim%2B%2B;Research+Scientist+%40+Khalifa+University)](https://github.com/anupteejo)
@@ -11,6 +9,7 @@
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--4022--7501-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-4022-7501)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anup-teejo-mathew-8a1322132/)
 [![Khalifa University](https://img.shields.io/badge/Khalifa_University-Profile-2E7D32?style=flat-square)](https://www.ku.ac.ae/college-people/anup-teejo-mathew)
+[![GVSRobotics](https://img.shields.io/badge/GitHub_Org-GVSRobotics-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/GVSRobotics)
 
 </div>
 
