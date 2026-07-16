@@ -16,7 +16,7 @@
 
 Focused on fundamental problems in robotics — modeling, dynamics, contact, and motion planning. I develop differentiable physics and geometry-based optimization methods for scalable control, planning, and real-time autonomy of rigid, soft, and hybrid robots.
 
-`MATLAB` `Python` `C` `C++` · autoencoders · reinforcement learning · diffusion policy
+`MATLAB` `Python` `C++` 
 
 **Currently building:** [SoRoSim](https://github.com/GVSRobotics/SoRoSim), a MATLAB toolbox for hybrid rigid-soft robot simulation, and its C++ differentiable-physics successor, **SoRoSim++**, for real-time, contact-rich, learning-ready robot simulation.
 
