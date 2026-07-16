@@ -6,6 +6,8 @@
 
 **Research Scientist**, Dept. of Mechanical and Nuclear Engineering · [Khalifa University](https://www.ku.ac.ae/college-people/anup-teejo-mathew), Abu Dhabi, UAE
 
+[anupteejo@gmail.com](mailto:anupteejo@gmail.com) · [anup.mathew@ku.ac.ae](mailto:anup.mathew@ku.ac.ae)
+
 [![ORCID](https://img.shields.io/badge/ORCID-0000--0003--4022--7501-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-4022-7501)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anup-teejo-mathew-8a1322132/)
 [![Khalifa University](https://img.shields.io/badge/Khalifa_University-Profile-2E7D32?style=flat-square)](https://www.ku.ac.ae/college-people/anup-teejo-mathew)
