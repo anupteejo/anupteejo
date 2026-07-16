@@ -1,39 +1,42 @@
-## Hi, I'm Anup Teejo Mathew 👋
+<div align="center">
 
-Research Scientist, Department of Mechanical and Nuclear Engineering, [Khalifa University](https://www.ku.ac.ae/college-people/anup-teejo-mathew), Abu Dhabi, UAE.
+<img src="assets/Anup_Photo_Headshot.jpg" width="150" alt="Anup Teejo Mathew" />
 
-Focused on fundamental problems in robotics — modeling, dynamics, contact, and motion planning. I develop differentiable physics and geometry-based optimization methods for scalable control, planning, and real-time autonomy of rigid, soft, and hybrid robots. Creator of [SoRoSim](https://github.com/anupteejo/SoRoSim), a MATLAB toolbox for hybrid rigid-soft robot simulation, and currently leading **SoRoSim++**, its C++ differentiable-physics successor.
+# Anup Teejo Mathew
 
-**Profiles:** [Google Scholar](https://scholar.google.com/citations?user=1ezZWI8AAAAJ&hl=en) · [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57194901986) · [ORCID](https://orcid.org/0000-0003-4022-7501) · [LinkedIn](https://www.linkedin.com/in/anup-teejo-mathew-8a1322132/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1800&color=546E7A&center=true&vCenter=true&width=600&lines=Robot+dynamics+%C3%97+differentiable+physics;Geometric+Variable+Strain+(GVS)+framework;Creator+of+SoRoSim+%2F+SoRoSim%2B%2B;Research+Scientist+%40+Khalifa+University)](https://github.com/anupteejo)
+
+**Research Scientist**, Dept. of Mechanical and Nuclear Engineering · [Khalifa University](https://www.ku.ac.ae/college-people/anup-teejo-mathew), Abu Dhabi, UAE
+
+[![ORCID](https://img.shields.io/badge/ORCID-0000--0003--4022--7501-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0003-4022-7501)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anup-teejo-mathew-8a1322132/)
+[![Khalifa University](https://img.shields.io/badge/Khalifa_University-Profile-2E7D32?style=flat-square)](https://www.ku.ac.ae/college-people/anup-teejo-mathew)
+
+</div>
+
+Focused on fundamental problems in robotics — modeling, dynamics, contact, and motion planning. I develop differentiable physics and geometry-based optimization methods for scalable control, planning, and real-time autonomy of rigid, soft, and hybrid robots.
+
+`MATLAB` `Python` `C` `C++` · autoencoders · reinforcement learning · diffusion policy
+
+**Currently building:** [SoRoSim](https://github.com/GVSRobotics/SoRoSim), a MATLAB toolbox for hybrid rigid-soft robot simulation, and its C++ differentiable-physics successor, **SoRoSim++**, for real-time, contact-rich, learning-ready robot simulation.
+
+---
 
 ### Citation metrics
 <!-- METRICS:START -->
-- [Google Scholar](https://scholar.google.com/citations?user=1ezZWI8AAAAJ&hl=en)
-- [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57194901986)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-profile-4285F4?style=flat-square)](https://scholar.google.com/citations?user=1ezZWI8AAAAJ&hl=en) [![Scopus](https://img.shields.io/badge/Scopus-profile-E9711C?style=flat-square)](https://www.scopus.com/authid/detail.uri?authorId=57194901986)
 <!-- METRICS:END -->
 
-_Google Scholar has no public API, and Scopus's requires a registered key, so live citation counts only appear above once the corresponding API key is added as a repo secret (see [scripts/update_readme.py](scripts/update_readme.py)). Until then these are plain profile links._
-
-### Recent publications
-<!-- PUBLICATIONS:START -->
+### Highlighted publications
+<!-- HIGHLIGHTS:START -->
 - **Analytical derivatives of strain-based dynamic model for hybrid soft-rigid robots**. *The International Journal of Robotics Research*, 2026. [DOI](https://doi.org/10.1177/02783649251346209)
-- **Structure-Preserving Model Order Reduction of Slender Soft Robots via Autoencoder-Parameterized Strain**. *IEEE Robotics and Automation Letters*, 2025. [DOI](https://doi.org/10.1109/LRA.2025.3606389)
-- **3-Axis Angular Strain Estimation With Hall Effect Sensors for Proprioception of Soft Robotic Manipulators**. *IEEE Robotics and Automation Letters*, 2025. [DOI](https://doi.org/10.1109/LRA.2025.3588782)
-- **Advancing Soft Robot Proprioception Through 6D Strain Sensors Embedding**. *Soft Robotics*, 2025. [DOI](https://doi.org/10.1089/soro.2024.0017)
-- **ZodiAq: An Isotropic Flagella-Inspired Soft Underwater Drone for Safe Marine Exploration**. *Soft Robotics*, 2025. [DOI](https://doi.org/10.1089/soro.2024.0036)
-- **Dynamic Shape Estimation of Tendon-Driven Soft Manipulators via Actuation Readings**. *IEEE Robotics and Automation Letters*, 2025. [DOI](https://doi.org/10.1109/LRA.2024.3511406)
 - **Reduced order modeling of hybrid soft-rigid robots using global, local, and state-dependent strain parameterization**. *The International Journal of Robotics Research*, 2025. [DOI](https://doi.org/10.1177/02783649241262333)
-- **Trident: A Multi-Functional Soft Appendage for Underwater Locomotion and Grasping**. *IEEE Robotics and Automation Letters*, 2025. [DOI](https://doi.org/10.1109/LRA.2024.3504238)
-- **Actuation Reading Insights: Estimating Shape and Forces in Tendon-Driven Slender Soft Robots**. *IEEE/ASME Transactions on Mechatronics*, 2025. [DOI](https://doi.org/10.1109/TMECH.2025.3581774)
+- **SoRoSim: A MATLAB Toolbox for Hybrid Rigid-Soft Robots Based on the Geometric Variable-Strain Approach**. *IEEE Robotics & Automation Magazine*, 2023. [DOI](https://doi.org/10.1109/MRA.2022.3202488)
 - **Soft Synergies: Model Order Reduction of Hybrid Soft-Rigid Robots via Optimal Strain Parameterization**. *IEEE Transactions on Robotics*, 2025. [DOI](https://doi.org/10.1109/TRO.2024.3522182)
-- **Strain-Based Cosserat Rod Model for Suspended Cable-Driven Parallel Robots in Construction 3D Printing**. *IEEE Access*, 2025. [DOI](https://doi.org/10.1109/ACCESS.2025.3620895)
-- **Dynamics and Control of Soft Robots With Implicit Strain Parametrization**. *IEEE Robotics and Automation Letters*, 2024. [DOI](https://doi.org/10.1109/LRA.2024.3360813)
-- **Capacitive Extensometry for the Estimation of Meaningful Stretch-Dependent Dielectric Strength of Dielectric Elastomer**. *IEEE Transactions on Dielectrics and Electrical Insulation*, 2023. [DOI](https://doi.org/10.1109/TDEI.2023.3239436)
-- **Dynamics of Suspended Cable Driven Parallel Robots using the Geometric Variable Strain Approach**. *IEEE RAS International Conference on Soft Robotics (RoboSoft)*, 2023. [DOI](https://doi.org/10.1109/ROBOSOFT55895.2023.10121928)
-- **Shape and Tip Force Estimation of Concentric Tube Robots Based on Actuation Readings Alone**. *Proceedings of the IEEE RAS International Conference on Soft Robotics (RoboSoft)*, 2023. [DOI](https://doi.org/10.1109/ROBOSOFT55895.2023.10121920)
+- **ZodiAq: An Isotropic Flagella-Inspired Soft Underwater Drone for Safe Marine Exploration**. *Soft Robotics*, 2025. [DOI](https://doi.org/10.1089/soro.2024.0036)
 
-[Full list on ORCID](https://orcid.org/0000-0003-4022-7501)
-<!-- PUBLICATIONS:END -->
+[Full publication list on ORCID](https://orcid.org/0000-0003-4022-7501)
+<!-- HIGHLIGHTS:END -->
 
 ---
-<sub>Metrics and publications above are refreshed automatically by [.github/workflows/update-readme.yml](.github/workflows/update-readme.yml) from the public [ORCID API](https://pub.orcid.org) (and Scopus/Google Scholar when API keys are configured).</sub>
+<sub>Metrics and publications above are refreshed automatically by <a href=".github/workflows/update-readme.yml">a weekly GitHub Action</a> from the public <a href="https://pub.orcid.org">ORCID API</a> (and Scopus/Google Scholar once the corresponding API key secret is configured — see <a href="scripts/update_readme.py">scripts/update_readme.py</a>).</sub>
